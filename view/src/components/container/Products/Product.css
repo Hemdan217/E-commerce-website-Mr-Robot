@@ -1,0 +1,28 @@
+.product {
+  background-color: #fff;
+  padding: 25px 20px;
+  border: 1px solid #7b6060;
+  border-radius: 15px;
+}
+
+.product .image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image-wrapper img {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px 15px;
+  margin-bottom: 30px;
+}
+.product span {
+  opacity: 0.8;
+  padding: 3px 0px;
+  line-height: 1.5;
+}
+.product h4 {
+  border-bottom: 1px solid #ddd;
+  padding: 3px 0px;
+  margin: 3px 0px;
+}
